@@ -15,6 +15,5 @@ tweepy == 3.9.0
 pandas == 1.0.5
 nltk == 3.5
 matplotlib == 3.2.2
-re == 2.2.1
 pandas == 1.0.5
 scikit-learn == 0.23.1
